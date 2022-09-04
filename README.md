@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Sachin Kumar Singh</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Vivek Yadav</a>!
    
 </h2>
 
@@ -8,11 +8,11 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/sachin-singhis/">
-  <img align="left" alt="Sachin's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/yadavvivek16398/">
+  <img align="left" alt="Vivek's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/home">
-  <img align="left" alt="Sachin| Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vivek's| Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br/>
@@ -21,15 +21,15 @@
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Sc(Mathematics) and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Tech(Computer Science) and an interest in coding. Working with Java,Springboot,Hibernet and programming languages like JavaScript catalyzed my curiosity for software development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning MERN 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning Java full stack  
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
-- 📫 How to reach me **sachin.singh.glbimr19@gmail.com**
+- 💬 Ask me about any Java full stack related stuff
+- 📫 How to reach me **viveky682@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
  <br>
@@ -61,8 +61,8 @@
 
 <br/>
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Sachin13579&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin13579&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Viveky682&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viveky682&theme=react&layout=compact" />
  </p> 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -72,19 +72,19 @@
  <h2>ℹ️ &nbsp;Github Info</h2>
  <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin13579&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Sachin biswal" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Viveky682&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Vivek Yadav" /></p>
 </details>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin13579&theme=github_dark" alt="Sachin" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin13579&theme=github_dark" alt="Vivekyadav" align = "center"/></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/Sachin13579"><img src="https://github-profile-trophy.vercel.app/?username=Sachin13579&margin-w=5&theme=radical" alt="Sachin" /></a> </p>
+<p align="center"> <a href="https://github.com/Sachin13579"><img src="https://github-profile-trophy.vercel.app/?username=Viveky682&margin-w=5&theme=radical" alt="Sachin" /></a> </p>
  </details>
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Sachin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sachin13579&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Vivek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Viveky682&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 
 
